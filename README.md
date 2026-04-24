@@ -12,4 +12,4 @@ Hello! This is my journey as Photographer
 https://yourusername.github.io/photography-portfolio  
 
 ## License
-MIT
+Apache 
