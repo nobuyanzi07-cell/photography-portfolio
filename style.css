@@ -32,3 +32,9 @@ h1, h2 {
   gap: 1rem;
   justify-content: center;
 }
+
+#favorites img {
+  border: 3px solid #333;
+  width: 250px;
+  transition: transform 0.3s;
+}
