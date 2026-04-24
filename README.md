@@ -9,7 +9,7 @@ Hello! This is my journey as Photographer
 3. Styles are in `style.css`  
 
 ## Live Site
-https://yourusername.github.io/photography-portfolio  
+https://nobuyanzi07-cell.github.io/photography-portfolio/  
 
 ## License
 Apache 
