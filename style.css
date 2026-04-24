@@ -17,3 +17,8 @@ nav a {
   margin: 0 0.5rem;
   text-decoration: none;
 }
+
+nav a:hover {
+  text-decoration: underline;
+}
+
