@@ -25,3 +25,10 @@ nav a:hover {
 h1, h2 {
   font-weight: bold;
 }
+
+#favorites ul {
+  list-style-type: none;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
