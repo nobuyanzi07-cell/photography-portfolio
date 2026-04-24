@@ -63,3 +63,9 @@ form input, textarea {
   display: block;
   margin: 1rem auto;
 }
+
+#philosophy {
+  background-color: #eee;
+  padding: 1rem;
+  border-left: 4px solid #333;
+}
